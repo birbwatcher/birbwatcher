@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![large]([https://user-images.githubusercontent.com/97985934/179250086-935a7f33-601b-4c88-8b25-e9a945189360.svg]https://www.codewars.com/users/birbwatcher/badges/large)
+![enter image description here](https://www.codewars.com/users/birbwatcher/badges/large)
+
 
 
 <!--
