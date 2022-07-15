@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt-текст]([https://www.codewars.com/users/birbwatcher/badges/large](https://www.codewars.com/users/birbwatcher/badges/large) "")
+![large]([https://www.codewars.com/users/birbwatcher/badges/large]https://user-images.githubusercontent.com/97985934/179250086-935a7f33-601b-4c88-8b25-e9a945189360.svg)
 
 
 <!--
