@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+![alt-текст]([https://www.codewars.com/users/birbwatcher/badges/large](https://www.codewars.com/users/birbwatcher/badges/large) "")
 
 
 <!--
