@@ -3,7 +3,7 @@
 ✉️ CV: https://birbwatcher.github.io/rsschool-cv/
 
 ##### My Codewars
-![]([https://www.codewars.com/users/birbwatcher/badges/small])
+![enter image description here](https://www.codewars.com/users/birbwatcher/badges/large)
 
 
 
