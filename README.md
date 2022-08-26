@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✉️ CV: https://birbwatcher.github.io/rsschool-cv/
+
 ##### My Codewars
 ![enter image description here](https://www.codewars.com/users/birbwatcher/badges/large)
 
