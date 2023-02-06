@@ -2,11 +2,6 @@
 
 ✉️ CV: https://birbwatcher.github.io/rsschool-cv/
 
-##### My Codewars
-![enter image description here](https://www.codewars.com/users/birbwatcher/badges/small)
-
-
-
 <!--
 
 **birbwatcher/birbwatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
