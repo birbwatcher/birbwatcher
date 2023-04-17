@@ -4,6 +4,8 @@
 
 Frontend Developer proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS, Webpack, Git, and Jest. Skilled in developing responsive and user-friendly interfaces for web applications. Committed to staying up-to-date with the latest technologies and industry trends to ensure the highest quality of work. Formerly a SEO manager who started projects from scratch and took care of all the management.
 
+📍 Warsaw, Poland
+
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-shalima/)
