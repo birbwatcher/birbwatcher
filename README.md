@@ -2,7 +2,7 @@
 
 ✉️ CV: https://birbwatcher.github.io/rsschool-cv/
 
-Frontend Developer proficient in JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS, Webpack, Git, and Jest. Skilled in developing responsive and user-friendly interfaces for web applications. Committed to staying up-to-date with the latest technologies and industry trends to ensure the highest quality of work.
+Frontend Developer proficient in JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS, Webpack, Git, and Jest. Skilled in developing responsive and user-friendly interfaces for web applications. Committed to staying up-to-date with the latest technologies and industry trends to ensure the highest quality of work. Formerly a SEO manager who started projects from scratch and took care of all the management.
 
 #### 📫 How to reach me:
 
