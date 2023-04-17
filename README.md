@@ -2,6 +2,8 @@
 
 ✉️ CV: https://birbwatcher.github.io/rsschool-cv/
 
+Frontend Developer proficient in JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS, Webpack, Git, and Jest. Skilled in developing responsive and user-friendly interfaces for web applications. Committed to staying up-to-date with the latest technologies and industry trends to ensure the highest quality of work.
+
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-shalima/)
