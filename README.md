@@ -24,6 +24,7 @@ Frontend Developer proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwin
 #### 📊 My certificates:
 
  - [RS School JavaScript/Front-end 2023](https://app.rs.school/certificate/m2teu68z)
+ - [EPAM /UpSkill Me](https://github.com/birbwatcher/UpSkill/blob/main/UpSkillMe_Certificate_Alexander%20Shalima.pdf)
 
 <!--
 
