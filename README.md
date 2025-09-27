@@ -13,6 +13,11 @@ Proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS,
 
 - [Wayback Machine Downloader JS](https://github.com/birbwatcher/wayback-machine-downloader) - **NodeJS** | 💾 Wayback Machine website downloader for webmasters, OSINT researchers, and SEO specialists
 
+#### 📊 My certifications:
+
+ - [RS School JavaScript/Front-end 2023](https://app.rs.school/certificate/m2teu68z)
+ - [EPAM /UpSkill Me](https://github.com/birbwatcher/UpSkill/blob/main/UpSkillMe_Certificate_Alexander%20Shalima.pdf)
+
 #### 💾 Frontend-learning Projects:
 
 - [Project Management System App](https://birbwatcher.github.io/rs-kanban-app/) - **Angular** | 📊 Kanban Board to manage your team's workflow - [repo](https://github.com/birbwatcher/Project-Management-System)
@@ -26,8 +31,5 @@ Proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS,
 
 ✉️ CV: https://birbwatcher.github.io/rsschool-cv/
 
-#### 📊 My certifications:
 
- - [RS School JavaScript/Front-end 2023](https://app.rs.school/certificate/m2teu68z)
- - [EPAM /UpSkill Me](https://github.com/birbwatcher/UpSkill/blob/main/UpSkillMe_Certificate_Alexander%20Shalima.pdf)
 
