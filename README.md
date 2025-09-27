@@ -8,7 +8,7 @@ Frontend Developer proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwin
 
 #### 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-shalima/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shalima-seo-fintech/)
 
 #### 💾 Projects:
 
@@ -26,18 +26,3 @@ Frontend Developer proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwin
  - [RS School JavaScript/Front-end 2023](https://app.rs.school/certificate/m2teu68z)
  - [EPAM /UpSkill Me](https://github.com/birbwatcher/UpSkill/blob/main/UpSkillMe_Certificate_Alexander%20Shalima.pdf)
 
-<!--
-
-**birbwatcher/birbwatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
