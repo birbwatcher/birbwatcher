@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am SEO Manager working in fintech. I'm an SEO manager working in fintech. I have many years of experience creating affiliate websites, doing SERM and etc etc etc.
+I'm an SEO manager working in fintech. I have many years of experience creating affiliate websites, doing SERM and etc etc etc.
 
 Proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS, Webpack, Git, and Jest. Skilled in developing responsive and user-friendly interfaces for web applications. Committed to staying up-to-date with the latest technologies and industry trends to ensure the highest quality of work.
 
