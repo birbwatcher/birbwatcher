@@ -12,6 +12,7 @@ Proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS,
 #### 🐥 Pet-projects
 
 - [Wayback Machine Downloader JS](https://github.com/birbwatcher/wayback-machine-downloader) - **NodeJS** | 💾 Wayback Machine website downloader for webmasters, OSINT researchers, and SEO specialists
+- [Wayback Machine Domain Checker](https://github.com/birbwatcher/wayback-machine-domain-checker) - **NodeJS** | 🔍 Wayback Machine domain checker for Drop domain hunters, OSINT researchers, and SEO specialists
 
 #### 📊 My certifications:
 
