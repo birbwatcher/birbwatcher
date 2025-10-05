@@ -19,18 +19,5 @@ Proficient in HTML5, JavaScript, Angular, RxJS, NgRx, Tailwind, Bootstrap, SCSS,
  - [RS School JavaScript/Front-end 2023](https://app.rs.school/certificate/m2teu68z)
  - [EPAM /UpSkill Me](https://github.com/birbwatcher/UpSkill/blob/main/UpSkillMe_Certificate_Alexander%20Shalima.pdf)
 
-#### 💾 Frontend-learning Projects:
-
-- [Project Management System App](https://birbwatcher.github.io/rs-kanban-app/) - **Angular** | 📊 Kanban Board to manage your team's workflow - [repo](https://github.com/birbwatcher/Project-Management-System)
-- [English for Kids](https://birbwatcher.github.io/English-for-kids/) - **Javascript** | 🎮 Memory Game - [repo](https://github.com/birbwatcher/English-for-kids)
-- [Book Shop](https://birbwatcher.github.io/Book-Shop/) - **Javascript** | 📚 Book Shop - [repo](https://github.com/birbwatcher/Book-Shop)
-- [CSS Slider](https://birbwatcher.github.io/cssMemSlider/) - **CSS** | CSS Meme Slider - [repo](https://github.com/birbwatcher/cssMemSlider)
-- [Shelter](https://birbwatcher.github.io/Shelter/pages/main/index.html) - **HTML/CSS** | ✨ Pixel Perfect Repsonsive Design - [repo](https://github.com/birbwatcher/Shelter)
-- [Unit Tests](https://github.com/birbwatcher/Unit-tests) - **Jest** | Implementation of Lodash library with Unit tests coverage
-- [News JS](https://github.com/birbwatcher/news-JS) - **Typescript** | Migration from JS to Typescript
-- [HTML Builder](https://github.com/birbwatcher/HTML-builder) - **Node JS** | Simple NodeJS project. Create/Write file. Show information about file. Folder copying. Assembling an HTML page from components and styles.
-
-✉️ CV: https://birbwatcher.github.io/rsschool-cv/
-
 
 
